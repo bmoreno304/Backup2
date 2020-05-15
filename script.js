@@ -67,19 +67,9 @@ function reSet(){
 	j.classList.add("disappear");
 }
 
-var name="user";
-
-if (name=="eric")
-{
-alert("hey eric");
-}
-else if(name=="brandon")
-{
-	alert("hey brandon");
-}
-else
-{
-	alert("who are you?");
+if (true) {
+	console.log(I am tired')
+	console.log('I am still tired')
 }
 
 
