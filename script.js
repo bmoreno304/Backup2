@@ -67,10 +67,6 @@ function reSet(){
 	j.classList.add("disappear");
 }
 
-if (true) {
-	console.log(I am tired')
-	console.log('I am still tired')
-}
 
 
 					
