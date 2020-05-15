@@ -73,6 +73,11 @@ if (name=="eric")
 {
 alert("hey eric");
 }
+else if(name=="brandon")
+{
+	alert("hey brandon");
+}
+else
 
 
 
