@@ -66,4 +66,14 @@ function reSet(){
 	i.classList.add("disappear");
 	j.classList.add("disappear");
 }
+
+var name="user";
+
+if (name=="eric")
+{
+alert("hey eric");
+}
+
+
+
 					
